@@ -4,5 +4,8 @@ public class Mains{
         int b=20;
         System.out.println(a+b);
         System.out.println("Hii");
+        int c=30;
+        System.out.println("Thank you");
+
     }
 }
